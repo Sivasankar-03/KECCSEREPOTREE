@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<conio.h>
 #include<malloc.h>
+ <<<<<<<<<<<<<<<<<<<<<<<<<  new
+changes
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 struct node
 {
     int data;
