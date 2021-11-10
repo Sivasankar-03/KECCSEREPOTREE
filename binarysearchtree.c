@@ -1,6 +1,9 @@
+######
 #include<stdio.h>
 #include<conio.h>
 #include<malloc.h>
+<<<<<<<<
+    >>>>>>>>>>>>>
 struct node
 {
     int data;
